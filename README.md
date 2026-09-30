@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="Gemini_Generated_Image_hjs517hjs517hjs5.png" alt="Syed Najmuddin" width="160" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  <img src="chatgpt .png" alt="Syed Najmuddin" width="160" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 ## 🚀 About Me
