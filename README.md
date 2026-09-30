@@ -1,5 +1,6 @@
  <p align="center">
-  <img src="ChatGPT Image Sep 30, 2026, 07_55_20 PM.png" alt="Syed Najmuddin" width="160" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  <img src="![Uploading ChatGPT Image Sep 30, 2026, 07_55_20 PM.png…]()
+" alt="Syed Najmuddin" width="160" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 ## 🚀 About Me
