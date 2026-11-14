@@ -1,10 +1,23 @@
- <p align="center">
+  <h1 align="center">Hi 👋, I'm Syed Najmuddin</h1>
+
+<p align="center"><b>A passionate developer from Quetta</b></p>
+
+<p align="center">
   <img src="agha.png.jpeg" alt="Syed Najmuddin" width="160">
 </p>
 ## 🚀 About Me
+## 🚀 About Me
 
-I am **Syed Najmuddin**, currently pursuing a Bachelor of Science in **Information Technology** (8th Semester).. My academic interests lie at the intersection of computing, web engineering, and data analysis, with a focus on mastering modern frameworks and software development methodologies.
+I am **Syed Najmuddin**, a final-year **Bachelor of Science in Information Technology** student (8th Semester) at the **University of Balochistan**, and a freelance **Full-Stack Web Developer** on Fiverr.
 
+I build responsive, user-friendly web applications and mobile apps, and I enjoy turning ideas into clean, working software. My academic interests lie at the intersection of computing, web engineering, and data analysis, with a focus on mastering modern frameworks and software development methodologies.
+
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Express, Python, FastAPI
+- **Database:** SQLite
+- **Mobile:** Flutter, Dart
 ## 🎓 Education
 
 | Institution | Degree | Duration |
