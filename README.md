@@ -5,7 +5,7 @@
 <p align="center">
   <img src="agha.png.jpeg" alt="Syed Najmuddin" width="160">
 </p>
- ### 🚀 About Me
+ ##  🚀 About Me
 
 I am **Syed Najmuddin**, a final-year **Bachelor of Science in Information Technology** student (8th Semester) at the **University of Balochistan**, and a freelance **Full-Stack Web Developer** on Fiverr.
 
